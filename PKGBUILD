@@ -3,8 +3,8 @@
 pkgname=suite66-scripts
 _realname=66-scripts
 pkgdesc="Complete and portable set of services to properly boot a machine with 66 tools"
-pkgver=1.7.1.7
-pkgrel=1
+pkgver=1.7.1.4
+pkgrel=2
 arch=('any')
 license=('ISC')
 depends=('s6-linux-utils' 's6-portable-utils'
